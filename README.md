@@ -11,7 +11,6 @@ O conversor de moeda deverá:
      - Converter de Reais a Peso Chileno
 
 Lembrando que deve ser possível também converter de forma inversa ou seja: (Parte ainda em desenvolvimento)
-
        - Converter de Dólar a Reais
        - Converter de Euro a Reais
        - Converter de Libras Esterlinas a Reais
